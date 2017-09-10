@@ -1,0 +1,32 @@
+1.overview of DP
+  a.state, reccurent formula ,subproblems
+  b.top down vs bottom up
+  c.getting solution from from dp states
+2.DP + bitmask
+  
+
+3.DP matrix exponentiaion
+
+ take printout of zobayers blog
+ link : http://zobayer.blogspot.in/2010/11/matrix-exponentiation.html 
+ problems :
+  UVa 10229 : Modular Fibonacci
+  UVa 10870 : Recurrences  
+  UVa 11651 : Krypton Number System
+  UVa 10754 : Fantastic Sequence
+  UVa 11551 : Experienced Endeavour
+  Hard :https://www.hackerrank.com/contests/hourrank-21/challenges/sams-numbers/editorial
+  1.give view of yoour small solution
+  2.how to form the matrix
+ The main take away here is that if our dynamic programming recurrence satisfies the following properties:
+
+    each row only depends on the previous row,
+    the recurrences are linear, and
+    the recurrences are independent of the row number; in other words, each row is dependent on the previous row in exactly the same way, regardless of the row number,
+4.Digit Dp
+
+4.DP + MIX
+
+
+5.DP + optimizations
+6.Non trivial DP
