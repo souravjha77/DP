@@ -1,4 +1,4 @@
-# Dynammic Programming
+# Dynamic Programming
 It is a collection of DP problems and its solutions
 
 To run the solution :
